@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NotenBerechnungsProjektApplication<NotenBerechnungsProjekt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.fra.uas.NotenBerechnungsProjekt.NotenBerechnungsProjektApplication",
+            "projectName": "NotenBerechnungsProjekt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
